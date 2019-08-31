@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: fa802082f72f04718990c355f1b93bcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8855818252995470283
+    second: jeremy-tran-little-prince-walk-and-idle_0
+  - first:
+      213: 74615939521240291
+    second: jeremy-tran-little-prince-walk-and-idle_1
+  - first:
+      213: -8678129892109182481
+    second: jeremy-tran-little-prince-walk-and-idle_2
+  - first:
+      213: -1021964627965359711
+    second: jeremy-tran-little-prince-walk-and-idle_3
+  - first:
+      213: -5516178082804041884
+    second: jeremy-tran-little-prince-walk-and-idle_4
+  - first:
+      213: -1556527760329897261
+    second: jeremy-tran-little-prince-walk-and-idle_5
+  - first:
+      213: 4651122981853526918
+    second: jeremy-tran-little-prince-walk-and-idle_6
+  - first:
+      213: -8139749170103541687
+    second: jeremy-tran-little-prince-walk-and-idle_7
+  - first:
+      213: 7549252394170249078
+    second: jeremy-tran-little-prince-walk-and-idle_8
+  - first:
+      213: 3188013646292776368
+    second: jeremy-tran-little-prince-walk-and-idle_9
+  - first:
+      213: 6561630720455886992
+    second: jeremy-tran-little-prince-walk-and-idle_10
+  - first:
+      213: -2769796415958834848
+    second: jeremy-tran-little-prince-walk-and-idle_11
+  - first:
+      213: 3693996267354073059
+    second: jeremy-tran-little-prince-walk-and-idle_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 937
+        width: 170
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeaa102b11664c4bb18c765ea54500a
+      internalID: -8855818252995470283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 937
+        width: 177
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0d66eae0d4340248fb9437021799a4
+      internalID: 74615939521240291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_2
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 937
+        width: 209
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29531bc5377848378125438f2d3b94a
+      internalID: -8678129892109182481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_3
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 937
+        width: 184
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c28607272f0e4fb3ac5e122865aaa93
+      internalID: -1021964627965359711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 492
+        width: 189
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b75921a7d8944630bcf757697c7af0e
+      internalID: -5516178082804041884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 492
+        width: 177
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a9e8c6ed6c74dc097f73180050336e
+      internalID: -1556527760329897261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 493
+        width: 209
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacae5095ad604d069dbade44d8affb4
+      internalID: 4651122981853526918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_7
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 491
+        width: 184
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd0f2a183b34a479c9b11b50b8bb28
+      internalID: -8139749170103541687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 65
+        width: 160
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cb8631a284b49359ca9c70254e4fb6
+      internalID: 7549252394170249078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 65
+        width: 160
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7a73b4e717e429b9acd7f9ce3e8bb7
+      internalID: 3188013646292776368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_10
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 64
+        width: 167
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd1e113aa53d4900ad4ac16bc50d3c2
+      internalID: 6561630720455886992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_11
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 65
+        width: 160
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27f31c5db9a4718acf4914589a212d
+      internalID: -2769796415958834848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-little-prince-walk-and-idle_12
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 65
+        width: 159
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbf765be8fd448a3936babb71fed49c
+      internalID: 3693996267354073059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

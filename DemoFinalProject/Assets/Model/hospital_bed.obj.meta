@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: abd2f116f07604815845e05c7db6360f
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube1Mat
+    second: {fileID: 2100000, guid: ea1231c84b24f46d1850b5f5b726a25f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HyperNURBS_PolygonMat
+    second: {fileID: 2100000, guid: c08dd950877e14f0e98c17f777d9f538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_Cube2Mat
+    second: {fileID: 2100000, guid: 952602c18f56345b3a6973cd6c5d346d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_Cube3Mat
+    second: {fileID: 2100000, guid: 3456f27609de745f8beec9554fc371ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_CubeMat
+    second: {fileID: 2100000, guid: e6a378ae5af7048b6abeafca4189293e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_Sweep_NURBS6Mat
+    second: {fileID: 2100000, guid: 6905d4e9bff87429bac67da80ed6243a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_Sweep_NURBS7Mat
+    second: {fileID: 2100000, guid: 773f32f606a12425982b1f990d273aea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_Sweep_NURBS9Mat
+    second: {fileID: 2100000, guid: ebd8a2bec20f342cea2539b435dadadc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_Sweep_NURBSMat
+    second: {fileID: 2100000, guid: 1e21b651f4f83493388bf260278e0371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_Tube22Mat
+    second: {fileID: 2100000, guid: 481a6c1f02d694b12a56af6c5c292651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_Tube2Mat
+    second: {fileID: 2100000, guid: d6ebbd29231c747e8aad885bacb86840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_Tube6Mat
+    second: {fileID: 2100000, guid: c575fb040e7c64d7b9d6be62c7adf111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_bottom_railMat
+    second: {fileID: 2100000, guid: 0553ccb2d33d3448bb5883836507ca77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail1_Sweep_NURBS2Mat
+    second: {fileID: 2100000, guid: 729ac80303752422890b92b51f48e92b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail1_Sweep_NURBS3Mat
+    second: {fileID: 2100000, guid: d69f1efa659234fd1b87d592060a98f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail1_Sweep_NURBS4Mat
+    second: {fileID: 2100000, guid: 6029a809cbc154194bd81b2e0501a8bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail_Sweep_NURBS1Mat
+    second: {fileID: 2100000, guid: a036f0b189e724e8aaf2894a01f45733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail_Sweep_NURBS5Mat
+    second: {fileID: 2100000, guid: f6fdb6e0b946b47a49f96c291cc4560c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail_Sweep_NURBS8Mat
+    second: {fileID: 2100000, guid: dc25afd4bf2604015b01a9e384c279d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail_down1Mat
+    second: {fileID: 2100000, guid: 9829328b4fac341a69b997f2f829175c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail_downMat
+    second: {fileID: 2100000, guid: 657d342f78b6f4dcfa0eca6497577769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail_up1Mat
+    second: {fileID: 2100000, guid: 23826ea9476e142a598326a36b9fd13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_rail_upMat
+    second: {fileID: 2100000, guid: 4b7a057f1a8774bbaada03b8013b4668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hospital_bed_top_railMat
+    second: {fileID: 2100000, guid: ed381b80c0e3d4d8aa1df75d94fc314e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel3_Cylinder3Mat
+    second: {fileID: 2100000, guid: 10ae530bc90fc41a28397b0e4a685ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel3_Cylinder8Mat
+    second: {fileID: 2100000, guid: 3cc5b45fd3f9c4a81893e182f585d858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel3_CylinderMat
+    second: {fileID: 2100000, guid: b67a292684a8e4fdcbb0b331efef617a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel3_wheel4_Tube16Mat
+    second: {fileID: 2100000, guid: 8ec1652391ebb4a36b81d16bc8c2204c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel3_wheel4_Tube17Mat
+    second: {fileID: 2100000, guid: d1b12204eaca2481ca4aa97fe1cd072d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel3_wheel4_Tube18Mat
+    second: {fileID: 2100000, guid: 75372339e87224151a9eaf204d68fb5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel3_wheel4_Tube19Mat
+    second: {fileID: 2100000, guid: 7a7548118012b4a9d9d03b1e38ecc386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel3_wheel4_Tube20Mat
+    second: {fileID: 2100000, guid: a822ab86d720e40e39d7fbc2af967b8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel3_wheel4_Tube26Mat
+    second: {fileID: 2100000, guid: cd5fa1dda24344804a7aa5a178204529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel5_Cylinder11Mat
+    second: {fileID: 2100000, guid: ce2f8d78cb436464a8859f8dbd87e6c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel5_Cylinder5Mat
+    second: {fileID: 2100000, guid: 35e6479902b0340d1b23c5c105c745a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel5_Cylinder7Mat
+    second: {fileID: 2100000, guid: d6e0212cfb5674e58a06320cce11f9e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel5_wheel7_Tube1Mat
+    second: {fileID: 2100000, guid: c825bdeb2acc34f6e87dd794a1a8b3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel5_wheel7_Tube21Mat
+    second: {fileID: 2100000, guid: 753b83da6a75849038e4eda976a1bfb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel5_wheel7_Tube23Mat
+    second: {fileID: 2100000, guid: b1e80f4e846be49d1aa77041b61cf932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel5_wheel7_Tube24Mat
+    second: {fileID: 2100000, guid: 46643635a752043acaa8f4f9de6a9eda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel5_wheel7_Tube25Mat
+    second: {fileID: 2100000, guid: 31020b787b82a4aa2a9a66ffe7442541, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel5_wheel7_TubeMat
+    second: {fileID: 2100000, guid: 25a8f49948a2c4639aa9e15e84763a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel6_Cylinder4Mat
+    second: {fileID: 2100000, guid: 2b9a12ee79018421b8cee941ef10c844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel6_Cylinder6Mat
+    second: {fileID: 2100000, guid: 29d8808b9077647cebeec77ef41dfedd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel6_Cylinder9Mat
+    second: {fileID: 2100000, guid: 375af8da47be94859afbb71449e3e5bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel6_wheel2_Tube10Mat
+    second: {fileID: 2100000, guid: b0654a1bd864e40b5ba3f6f85096f24d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel6_wheel2_Tube11Mat
+    second: {fileID: 2100000, guid: 143349c9e27f744f7ac0a2515d76c000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel6_wheel2_Tube12Mat
+    second: {fileID: 2100000, guid: 24da922f597fb4382baec7bf33c35bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel6_wheel2_Tube7Mat
+    second: {fileID: 2100000, guid: d6e58babfc8e14f5f9218ca7413fbea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel6_wheel2_Tube8Mat
+    second: {fileID: 2100000, guid: 10781cbbae35f41828c52933e2051352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel6_wheel2_Tube9Mat
+    second: {fileID: 2100000, guid: aa93cd852b023481e89582bdecec8ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel_Cylinder10Mat
+    second: {fileID: 2100000, guid: 48cce15f1b4534128af64fda9775f14c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel_Cylinder1Mat
+    second: {fileID: 2100000, guid: 4430e68ba2fbd44db95ada2b11f8be5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel_Cylinder2Mat
+    second: {fileID: 2100000, guid: 0dc159c765ffa4654b9694ed58de25c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel_wheel1_Tube13Mat
+    second: {fileID: 2100000, guid: 4620dc458d19e4231a162caec1437f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel_wheel1_Tube14Mat
+    second: {fileID: 2100000, guid: 9c7dfa4ce710c424ca3169e177eb8a27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel_wheel1_Tube15Mat
+    second: {fileID: 2100000, guid: 0344d0273cc154abb806974f4e3dbf70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel_wheel1_Tube3Mat
+    second: {fileID: 2100000, guid: 9bd0339087bfb4cc6bfa162f03cbe831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel_wheel1_Tube4Mat
+    second: {fileID: 2100000, guid: 19d11d1eaa2f8409fb477a80528eeb12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_wheel_wheel1_Tube5Mat
+    second: {fileID: 2100000, guid: 63d6e7c19500040c5ba93dd4b5fd4809, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: ddb034e6ab1984760a6725e2917f2bfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4041543847574332133
+    second: jeremy-tran-wb-sprite-sheet_0
+  - first:
+      213: 4792374884273671184
+    second: jeremy-tran-wb-sprite-sheet_1
+  - first:
+      213: -6862568836463629620
+    second: jeremy-tran-wb-sprite-sheet_2
+  - first:
+      213: 6783421957806447030
+    second: jeremy-tran-wb-sprite-sheet_3
+  - first:
+      213: 6435686110683193552
+    second: jeremy-tran-wb-sprite-sheet_4
+  - first:
+      213: -4117713261635141974
+    second: jeremy-tran-wb-sprite-sheet_5
+  - first:
+      213: 5978976073639246313
+    second: jeremy-tran-wb-sprite-sheet_6
+  - first:
+      213: 3339340880570368638
+    second: jeremy-tran-wb-sprite-sheet_7
+  - first:
+      213: 5872452855437770791
+    second: jeremy-tran-wb-sprite-sheet_8
+  - first:
+      213: 4072054221272320516
+    second: jeremy-tran-wb-sprite-sheet_9
+  - first:
+      213: 6956246578173797706
+    second: jeremy-tran-wb-sprite-sheet_10
+  - first:
+      213: -7116493192406575271
+    second: jeremy-tran-wb-sprite-sheet_11
+  - first:
+      213: -3443667694441811470
+    second: jeremy-tran-wb-sprite-sheet_12
+  - first:
+      213: 8698733027677097386
+    second: jeremy-tran-wb-sprite-sheet_13
+  - first:
+      213: 5229388029703014414
+    second: jeremy-tran-wb-sprite-sheet_14
+  - first:
+      213: -4804467051147262284
+    second: jeremy-tran-wb-sprite-sheet_15
+  - first:
+      213: -5058497829543123602
+    second: jeremy-tran-wb-sprite-sheet_16
+  - first:
+      213: 3878478836915128162
+    second: jeremy-tran-wb-sprite-sheet_17
+  - first:
+      213: -6773536225326553222
+    second: jeremy-tran-wb-sprite-sheet_18
+  - first:
+      213: -5972038377415682525
+    second: jeremy-tran-wb-sprite-sheet_19
+  - first:
+      213: 8268137776986329310
+    second: jeremy-tran-wb-sprite-sheet_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1459
+        width: 99
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62ad3d18030f4e1cb3eb4eda0102bb3
+      internalID: 4041543847574332133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1459
+        width: 712
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee389a03ef740a591ea22e54a80472
+      internalID: 4792374884273671184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1009
+        width: 121
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e676871d12d1c42cba71cffaa5147073
+      internalID: -6862568836463629620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1009
+        width: 93
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201e524a2a2a4f9fb9e68814d762b8b
+      internalID: 6783421957806447030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1010
+        width: 85
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a269d60bfee3b49159b66814e4f56a1b
+      internalID: 6435686110683193552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1009
+        width: 76
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1cda5095a394f92ae6c56bb85d1a95
+      internalID: -4117713261635141974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1009
+        width: 104
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1c98cf15914a4c80c267c241befe9
+      internalID: 5978976073639246313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1009
+        width: 122
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef483f7f4de241deaee3e5d07c29c8d
+      internalID: 3339340880570368638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1010
+        width: 93
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b9fc9196fd4ef8a1dc3810ca4c9b9
+      internalID: 5872452855437770791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1010
+        width: 86
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618d1b60626c148fea30550bb3a86f8c
+      internalID: 4072054221272320516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1009
+        width: 75
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10849966a84048f29348efe26092825
+      internalID: 6956246578173797706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1010
+        width: 103
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9079ffcbed471582fe69585e3916d
+      internalID: -7116493192406575271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 552
+        width: 90
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe11bddb973ee4614aea2d6fbb3d316d
+      internalID: -3443667694441811470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 551
+        width: 99
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf59279e27340e89cc02a072e19d57
+      internalID: 8698733027677097386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 552
+        width: 110
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4686b43a46cfa4c1c944303913f676e5
+      internalID: 5229388029703014414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 552
+        width: 159
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc50604015d040938b18f9486852b08
+      internalID: -4804467051147262284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 552
+        width: 171
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6150ef57cc494572914307344272d32
+      internalID: -5058497829543123602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 552
+        width: 181
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27de8d6a8f94051bfbd820743d8103
+      internalID: 3878478836915128162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 552
+        width: 90
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc349c469573a47ee8fad805ec408146
+      internalID: -6773536225326553222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 769
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb58707f2e24449abd8aa1c3b92f828
+      internalID: -5972038377415682525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremy-tran-wb-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 414
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e2ef15a14e44c89610728c0ce8e3d
+      internalID: 8268137776986329310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
