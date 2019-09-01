@@ -38,7 +38,7 @@ or lose the game because every result you get caught you a different memory.
 #### Game demo & Walkthrough
 
 Check out the link https://drive.google.com/drive/u/0/folders/14n1m-VSLmo_-RcOMRcjXer5vs1shM2v1 for demo and walkthrough.
-Some scenes are hard and tricky to play and win. Be notice!
+Some scenes are hard and tricky to play and win. Be notice! <br/>
 Unfortunately, if you caused a bug which frozen or cannot move or close the game, you will have to play it from beginning (Chapter 1). We'll fix that in the following patch.
 
 Here are some tips about every chapter:
