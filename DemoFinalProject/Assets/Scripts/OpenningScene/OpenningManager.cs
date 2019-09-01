@@ -6,7 +6,13 @@ using UnityEngine.Playables;
 [RequireComponent(typeof(PlayableDirector))]
 public class OpenningManager : MonoBehaviour
 {
-    
+    private void Awake()
+    {
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
+    }
+
+
 
     public void StarGame()
     {

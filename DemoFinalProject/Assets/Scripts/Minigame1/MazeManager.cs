@@ -19,7 +19,7 @@ public class MazeManager : MonoBehaviour
     Vector3 lowerVector, toVector, newCameraPos;
 
     public int testCamera;
-   
+    
     private void Awake()
     {
         mz = this;

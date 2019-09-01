@@ -88,7 +88,7 @@ public class FishAttack : MonoBehaviour
                 transform.GetChild(0).gameObject.SetActive(true);
                 transform.GetComponent<BaitControl>().Return();
 
-                DialogueSystem.ds.Display(new int[] {4});
+                DialogueSystem.ds.Display(new int[] {4, 5});
                 FishingGameManager.fgm.End();
             }
         }

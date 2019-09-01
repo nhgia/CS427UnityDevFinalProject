@@ -35,6 +35,7 @@ public class RunningGameManager : MonoBehaviour
     {
         player.position = checkPoint[presentPoint].position;
 
+        player.transform.forward = checkPoint[presentPoint].right;
         player.GetComponent<CharacterControl>().newPos = checkPoint[presentPoint].position;
         player.GetComponent<CharacterControl>()._direction = checkPoint[presentPoint].right;
         player.GetComponent<CharacterControl>().change = checkPoint[presentPoint].GetComponent<RunningGameCheckPoint>().change;

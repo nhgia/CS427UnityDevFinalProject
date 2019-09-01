@@ -12,6 +12,8 @@ public class DialogueSystem : MonoBehaviour
 
     Queue<int> dialogues;
 
+    int number = 0;
+
     private void Awake()
     {
         ds = this;
@@ -21,6 +23,8 @@ public class DialogueSystem : MonoBehaviour
     public void Display(int[] listOfSentence)
     {
         foreach (int i in listOfSentence) dialogues.Enqueue(i);
+        number += listOfSentence.Length;
+
         DisplayNextOne();
     }
 
@@ -51,6 +55,10 @@ public class DialogueSystem : MonoBehaviour
         int intParam = animationEvent.intParameter;
         float floatParam = animationEvent.floatParameter;
 
+
+        //FindObjectOfType<CharacterMove>().gameObject.SetActive(false);
+
+
         Display(new int[] {intParam});
 
 
@@ -59,5 +67,13 @@ public class DialogueSystem : MonoBehaviour
         // Etc.
     }
 
+    public void DoSomething()
+    {
+        //FindObjectOfType<CharacterMove>().gameObject.SetActive(false);
+
+        Display(new int[] {number});
+    }
+
 
 }
+ 

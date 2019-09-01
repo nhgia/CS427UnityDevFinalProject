@@ -22,6 +22,7 @@ public class LevelChanger : MonoBehaviour {
 
 	public void FadeToLevel (int levelIndex)
 	{
+        if (levelIndex >= SceneManager.sceneCountInBuildSettings) levelIndex = 0;
 		levelToLoad = levelIndex;
 		//animator.SetTrigger("FadeOut");
 	}

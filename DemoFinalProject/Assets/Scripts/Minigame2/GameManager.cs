@@ -16,6 +16,7 @@ public class GameManager : MonoBehaviour
     public TextMesh enemyText;
 
     public Ball ball;
+    public GameObject guide;
 
     int playerScore = 0;
     int enemyScore = 0;
@@ -26,6 +27,7 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         DialogueSystem.ds.Display(new int[] { 0, 1});
+        guide.SetActive(true);
     }
 
     private void Update()
@@ -85,6 +87,8 @@ public class GameManager : MonoBehaviour
         NoticeNote.gameObject.SetActive(true);
         notify.gameObject.SetActive(true);
 
+        DialogueSystem.ds.Display(new int[] { 6, 7 });
+
         actionStop = true;
 
 
@@ -121,7 +125,7 @@ public class GameManager : MonoBehaviour
         notify.gameObject.SetActive(true);
 
         camera.GetComponent<Animator>().SetTrigger("Cutscene");
-        DialogueSystem.ds.Display(new int[] {6,7});
+        DialogueSystem.ds.Display(new int[] {8,9});
 
         actionStop = true;
         // run UI

@@ -15,7 +15,7 @@ public class CharacterMove : MonoBehaviour
 
     private void Start()
     {
-        DialogueSystem.ds.Display(new int[] {28,0,1});
+        DialogueSystem.ds.Display(new int[] {0,1,2});
         Cursor.visible = true;
         Cursor.lockState = CursorLockMode.None;
     }
@@ -43,6 +43,12 @@ public class CharacterMove : MonoBehaviour
     {
         pet.sprite = sprite;
         pet.gameObject.SetActive(true);
+    }
+
+    public void TryToTest()
+    {
+        //gameObject.SetActive(false);
+        DialogueSystem.ds.DoSomething();
     }
 
 }

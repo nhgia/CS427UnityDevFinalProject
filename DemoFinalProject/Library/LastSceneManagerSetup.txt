@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/OpenningScene.unity
+- path: Assets/Scenes/Minigame/MiniGame0.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
