@@ -26,6 +26,7 @@ Go to ./Build/ and download subfolder matched with your platform (Windows or mac
 #### How to play
 > “Life is miserable, fun, sad and happy at the same time. How you die is
 how the life affect you and how you live is how you treat the life.” <br/>
+
 You will be played as a boy who have a family. Use the character to
 discover more about his life-memory which was forgotten. You can decide the
 story in which you want it to happen. <br/>
